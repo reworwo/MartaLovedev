@@ -25,7 +25,7 @@
   ],
      "Categories": [
     {
-      "category": "Dana Rupiah",
+      "category": "Car Loan",
       "image": "file:///android_asset/image/alien1.jpg"
 
     }
@@ -35,11 +35,11 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
-      "title": "Dana Rupiah Pinjaman Cepat-Hint Info",
+      "category": "Car Loan",
+      "title": "What Is a Car Loan? & How Do Car Loans Work?",
       "image": "file:///android_asset/image/dana1.png",
       "description": "Sekilas Tentang Dana Rupiah",
-      "link": "file:///android_asset/guide/guide_1.html"
+      "link": "https://loancalculatorcarauto.blogspot.com/2023/04/what-is-car-loan-how-do-car-loans-work.html"
     },
     {
       "id": 2,
