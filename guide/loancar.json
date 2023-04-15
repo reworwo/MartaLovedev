@@ -1,0 +1,70 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
+      "backup_ads_banner":"",
+      "backup_ads_natives":""
+      "backup_ads_intertitial":"",
+      "backup_ads_reward":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Dana Rupiah",
+      "image": "file:///android_asset/image/alien1.jpg"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Dana Rupiah",
+      "title": "Dana Rupiah Pinjam Online Info",
+      "image": "file:///android_asset/image/honey12.png",
+      "description": "Sekilas Tentang Dana Rupiah",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Dana Rupiah",
+      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "image": "file:///android_asset/image/img1.jpeg",
+      "description": "null",
+      "link": "file:///android_asset/guide/guide_1.html"},
+    {
+      "id": 3,
+      "category": "Dana Rupiah",
+      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "image": "https://aliendro.id/uploads/blog/202012/img_5fd628c5568757-40238678-73650032.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 4,
+      "category": "Dana Rupiah",
+      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "image": "file:///android_asset/image/img2.jpeg",
+      "description": "null",
+      "link": "file:///android_asset/guide/guide_1.html"
+    }
+  ]
+}
