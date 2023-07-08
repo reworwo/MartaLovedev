@@ -95,50 +95,50 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Dana Darurat",
-      "title": "Tentang Dana Darurat Kredit Tunai",
+      "name_category": "DanaMu",
+      "title": "Tentang DanaMu - Pinjaman Online",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Tentang Pinjaman Online Dana Darurat Kredit Tunai",
+      "description": "Tentang Pinjaman Online DanaMu - Pinjaman Online",
       "link": "file:///android_asset/guide/guide_1.html"
     },
       {
       "id": 2,
-      "name_category": "Dana Darurat",
-      "title": "Pencairan Pinjaman Dana Darurat Kredit Tunai",
+      "name_category": "DanaMu",
+      "title": "Pencairan Pinjaman DanaMu - Pinjaman Online",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Lama Proses Pencairan Pinjaman Dana Darurat Kredit Tunai",
+      "description": "Lama Proses Pencairan Pinjaman DanaMu - Pinjaman Online",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 3,
-      "name_category": "Dana Darurat",
-      "title": "Apakah Pinjaman Di Dana Darurat Kredit Tunai Aman",
+      "name_category": "DanaMu",
+      "title": "Apakah Pinjaman Di Dana DanaMu - Pinjaman Online",
       "image": "file:///android_asset/image/banner.png",
       "description": "Apakah Pinjaman Online Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_3.html"
       }, 
     {
       "id":4,
-      "name_category": "Dana Darurat",
-      "title": "Syarat Pinjaman Di Dana Darurat Kredit Tunai",
+      "name_category": "DanaMu",
+      "title": "Syarat Pinjaman Di DanaMu - Pinjaman Online",
       "image": "file:///android_asset/image/banner.png",
       "description": "Syarat Agar Pinjaman Online Cepat Cair",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
-      "name_category": "Dana Darurat",
-      "title": "Perhitungan Bunga Di Cash Dana Pinjaman Tunai",
+      "name_category": "DanaMu",
+      "title": "Perhitungan Bunga Di DanaMu - Pinjaman Online",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Cara Menghitung Bunga Pinjaman Di Dana Darurat Kredit Tunai",
+      "description": "Cara Menghitung Bunga Pinjaman Di DanaMu - Pinjaman Online",
       "link": "file:///android_asset/guide/guide_5.html"
     },
      {
       "id":6,
-      "name_category": "Dana Darurat",
-      "title": "Kemudhan Pinjaman Online Dana Darurat Kredit Tunai ",
+      "name_category": "DanaMu",
+      "title": "Kemudhan Pinjaman Online DanaMu - Pinjaman Online ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Kemudhan Pinjaman Online di Dana Darurat Kredit Tunai",
+      "description": "Kemudhan Pinjaman Online di DanaMu - Pinjaman Online",
       "link": "file:///android_asset/guide/guide_6.html"
     }
   ]
