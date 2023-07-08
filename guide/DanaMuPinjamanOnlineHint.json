@@ -1,0 +1,145 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"",
+      "main_ads_banner": "4f2c3721e224aa48",
+      "main_ads_intertitial":"de53951cf295a12c",
+      "main_ads_natives":"e8f0fb160d3d5d70",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"9bcd974ab456fa35",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Dana Darurat",
+      "title": "Tentang Dana Darurat Kredit Tunai",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Tentang Pinjaman Online Dana Darurat Kredit Tunai",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+      {
+      "id": 2,
+      "name_category": "Dana Darurat",
+      "title": "Pencairan Pinjaman Dana Darurat Kredit Tunai",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Lama Proses Pencairan Pinjaman Dana Darurat Kredit Tunai",
+      "link": "file:///android_asset/guide/guide_2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Dana Darurat",
+      "title": "Apakah Pinjaman Di Dana Darurat Kredit Tunai Aman",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Apakah Pinjaman Online Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_3.html"
+      }, 
+    {
+      "id":4,
+      "name_category": "Dana Darurat",
+      "title": "Syarat Pinjaman Di Dana Darurat Kredit Tunai",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Syarat Agar Pinjaman Online Cepat Cair",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Dana Darurat",
+      "title": "Perhitungan Bunga Di Cash Dana Pinjaman Tunai",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Cara Menghitung Bunga Pinjaman Di Dana Darurat Kredit Tunai",
+      "link": "file:///android_asset/guide/guide_5.html"
+    },
+     {
+      "id":6,
+      "name_category": "Dana Darurat",
+      "title": "Kemudhan Pinjaman Online Dana Darurat Kredit Tunai ",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Kemudhan Pinjaman Online di Dana Darurat Kredit Tunai",
+      "link": "file:///android_asset/guide/guide_6.html"
+    }
+  ]
+}
