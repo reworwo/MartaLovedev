@@ -3,18 +3,18 @@
     {
       "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"",
-      "main_ads_banner": "4f2c3721e224aa48",
-      "main_ads_intertitial":"de53951cf295a12c",
-      "main_ads_natives":"e8f0fb160d3d5d70",
+      "main_ads_banner": "abae06a49e3b1b35",
+      "main_ads_intertitial":"54e99c7ec77f2bb2",
+      "main_ads_natives":"386fdb51cc467743",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "open_ads_max":"9bcd974ab456fa35",
+      "open_ads_max":"1cd12b48886ff358",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 1,
+      "initialize_sdk":"4kDKR418Q3-ykyKsTZiVlrqxPUvaLvXMhv3xW8BbTST0ceb-2uQVqulXX39G3VF_iXmT-MQCcs3wqrf_neVPyo",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -95,23 +95,23 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Dana Plus",
-      "title": "Tentang Dana Plus - Pinjaman Uang",
+      "name_category": "Dana Dompet",
+      "title": "Tentang Dana Dompet - Pinjam Online",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Tentang Pinjaman Online Dana Darurat Kredit Tunai",
+      "description": "Tentang Pinjaman Online Dana Dompet - Pinjam Online",
       "link": "file:///android_asset/guide/guide_1.html"
     },
       {
       "id": 2,
-      "name_category": "Dana Plus",
+      "name_category": "Dana Dompet",
       "title": "Pencairan Pinjaman Dana Plus - Pinjaman Uang",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Lama Proses Pencairan Pinjaman Dana Darurat Kredit Tunai",
+      "description": "Lama Proses Pencairan Pinjaman Dana Dompet - Pinjam Online",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 3,
-      "name_category": "Dana Plus",
+      "name_category": "Dana Dompet",
       "title": "Apakah Pinjaman Di Dana Plus - Pinjaman Uang",
       "image": "file:///android_asset/image/banner.png",
       "description": "Apakah Pinjaman Online Terdaftar OJK",
@@ -119,7 +119,7 @@
       }, 
     {
       "id":4,
-      "name_category": "Dana Plus",
+      "name_category": "Dana Dompet",
       "title": "Syarat Pinjaman Di Dana Plus - Pinjaman Uang",
       "image": "file:///android_asset/image/banner.png",
       "description": "Syarat Agar Pinjaman Online Cepat Cair",
@@ -127,18 +127,18 @@
     },
     {
       "id": 5,
-      "name_category": "Dana Plus",
+      "name_category": "Dana Dompet",
       "title": "Perhitungan Bunga Di Dana Plus - Pinjaman Uang",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Cara Menghitung Bunga Pinjaman Di Dana Plus - Pinjaman Uang",
+      "description": "Cara Menghitung Bunga Pinjaman Dana Dompet - Pinjam Online",
       "link": "file:///android_asset/guide/guide_5.html"
     },
      {
       "id":6,
-      "name_category": "Dana Plus",
-      "title": "Kemudahan Pinjaman Online Dana Plus - Pinjaman Uang ",
+      "name_category": "Dana Dompet",
+      "title": "Kemudahan Pinjaman Online Dana Dompet - Pinjam Online ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Kemudhan Pinjaman Online di Dana Plus - Pinjaman Uang",
+      "description": "Kemudhan Pinjaman Online di DDana Dompet - Pinjam Online",
       "link": "file:///android_asset/guide/guide_6.html"
     }
   ]
