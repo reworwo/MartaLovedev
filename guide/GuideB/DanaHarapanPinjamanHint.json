@@ -3,18 +3,18 @@
     {
       "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"",
-      "main_ads_banner": "4f2c3721e224aa48",
-      "main_ads_intertitial":"de53951cf295a12c",
-      "main_ads_natives":"e8f0fb160d3d5d70",
+      "main_ads_banner": "22fd1e31f0347a69",
+      "main_ads_intertitial":"789c79a03b1f8cba",
+      "main_ads_natives":"e8e6709855c9b5bb",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "open_ads_max":"9bcd974ab456fa35",
+      "open_ads_max":"58be15355eb67880",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 1,
+      "initialize_sdk":"4kDKR418Q3-ykyKsTZiVlrqxPUvaLvXMhv3xW8BbTST0ceb-2uQVqulXX39G3VF_iXmT-MQCcs3wqrf_neVPyo",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -95,50 +95,50 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Dana Plus",
-      "title": "Tentang Dana Plus - Pinjaman Uang",
+      "name_category": "Dana Harapan",
+      "title": "Tentang Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Tentang Pinjaman Online Dana Darurat Kredit Tunai",
+      "description": "Tentang Pinjaman Online Dana Harapan - Pinjaman",
       "link": "file:///android_asset/guide/guide_1.html"
     },
       {
       "id": 2,
-      "name_category": "Dana Plus",
-      "title": "Pencairan Pinjaman Dana Plus - Pinjaman Uang",
+      "name_category": "Dana Harapan",
+      "title": "Pencairan Pinjaman Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Lama Proses Pencairan Pinjaman Dana Darurat Kredit Tunai",
+      "description": "Lama Proses Pencairan Pinjaman Dana Harapan - Pinjaman",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 3,
-      "name_category": "Dana Plus",
-      "title": "Apakah Pinjaman Di Dana Plus - Pinjaman Uang",
+      "name_category": "Dana Harapan",
+      "title": "Apakah Pinjaman Di Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Apakah Pinjaman Online Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_3.html"
       }, 
     {
       "id":4,
-      "name_category": "Dana Plus",
-      "title": "Syarat Pinjaman Di Dana Plus - Pinjaman Uang",
+      "name_category": "Dana Harapan",
+      "title": "Syarat Pinjaman Di Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Syarat Agar Pinjaman Online Cepat Cair",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
-      "name_category": "Dana Plus",
-      "title": "Perhitungan Bunga Di Dana Plus - Pinjaman Uang",
+      "name_category": "Dana Harapan",
+      "title": "Perhitungan Bunga Di Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Cara Menghitung Bunga Pinjaman Di Dana Plus - Pinjaman Uang",
+      "description": "Cara Menghitung Bunga Pinjaman Di Dana Harapan - Pinjaman",
       "link": "file:///android_asset/guide/guide_5.html"
     },
      {
       "id":6,
-      "name_category": "Dana Plus",
-      "title": "Kemudahan Pinjaman Online Dana Plus - Pinjaman Uang ",
+      "name_category": "Dana Harapan",
+      "title": "Kemudahan Pinjaman Online Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Kemudhan Pinjaman Online di Dana Plus - Pinjaman Uang",
+      "description": "Kemudhan Pinjaman Online di Dana Harapan - Pinjaman",
       "link": "file:///android_asset/guide/guide_6.html"
     }
   ]
