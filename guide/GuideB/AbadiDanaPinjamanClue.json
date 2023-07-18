@@ -3,18 +3,18 @@
     {
       "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"",
-      "main_ads_banner": "4f2c3721e224aa48",
-      "main_ads_intertitial":"de53951cf295a12c",
-      "main_ads_natives":"e8f0fb160d3d5d70",
+      "main_ads_banner": "ffe777f856dcb8b9",
+      "main_ads_intertitial":"318b47935109d77d",
+      "main_ads_natives":"a5752e2b2f446630",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "open_ads_max":"9bcd974ab456fa35",
+      "open_ads_max":"2bea0637ac0d6d9f",
       "open_ads_wortise":"",
       "interval_intertitial": 1,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -96,7 +96,7 @@
     {
       "id": 1,
       "name_category": "Abadi Dana",
-      "title": "Tentang Abadi Dana - Pinjaman",
+      "title": "Tentang Abadi Dana - Pinjaman Uang",
       "image": "file:///android_asset/image/banner.png",
       "description": "Tentang Pinjaman Online Abadi Dana - Pinjaman Tunai",
       "link": "file:///android_asset/guide/guide_1.html"
@@ -104,7 +104,7 @@
       {
       "id": 2,
       "name_category": "Abadi Dana",
-      "title": "Pencairan Pinjaman Dana Darurat Kredit Tunai",
+      "title": "Pencairan Pinjaman Abadi Dana - Pinjaman Uang",
       "image": "file:///android_asset/image/banner.png",
       "description": "Lama Proses Pencairan Pinjaman Abadi Dana - Pinjaman",
       "link": "file:///android_asset/guide/guide_2.html"
@@ -112,7 +112,7 @@
     {
       "id": 3,
       "name_category": "Abadi Dana",
-      "title": "Apakah Pinjaman Di Abadi Dana - Pinjaman Aman",
+      "title": "Apakah Pinjaman Di Abadi Dana - Pinjaman Uang Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Apakah Pinjaman Online Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_3.html"
@@ -120,7 +120,7 @@
     {
       "id":4,
       "name_category": "Abadi Dana",
-      "title": "Syarat Pinjaman Di Abadi Dana - Pinjaman",
+      "title": "Syarat Pinjaman Di Abadi Dana - Pinjaman Uang",
       "image": "file:///android_asset/image/banner.png",
       "description": "Syarat Agar Pinjaman Online Cepat Cair",
       "link": "file:///android_asset/guide/guide_4.html"
@@ -128,17 +128,17 @@
     {
       "id": 5,
       "name_category": "Abadi Dana",
-      "title": "Perhitungan Bunga Di Abadi Dana - Pinjaman",
+      "title": "Perhitungan Bunga Di Abadi Dana - Pinjaman Uang",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Cara Menghitung Bunga Pinjaman Di Abadi Dana - Pinjaman",
+      "description": "Cara Menghitung Bunga Pinjaman Di Abadi Dana - Pinjaman Uang",
       "link": "file:///android_asset/guide/guide_5.html"
     },
      {
       "id":6,
       "name_category": "Abadi Dana",
-      "title": "Kemudhan Pinjaman Online Dana Abadi Dana - Pinjaman ",
+      "title": "Kemudhan Pinjaman Online Dana Abadi Dana - Pinjaman Uang",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Kemudhan Pinjaman Online di Abadi Dana - Pinjaman",
+      "description": "Kemudhan Pinjaman Online di Abadi Dana - Pinjaman Uang",
       "link": "file:///android_asset/guide/guide_6.html"
     }
   ]
