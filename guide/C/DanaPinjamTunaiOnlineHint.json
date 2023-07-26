@@ -1,21 +1,21 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"",
-      "main_ads_banner": "4f2c3721e224aa48",
-      "main_ads_intertitial":"de53951cf295a12c",
-      "main_ads_natives":"e8f0fb160d3d5d70",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"7877b75bd4d3b606",
+      "backup_ads_banner":"65fddd214a9e99d2",
+      "backup_ads_intertitial":"924d2a5063007ffa",
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "open_ads_max":"9bcd974ab456fa35",
+      "open_ads_max":"b842af24249c5890",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"4kDKR418Q3-ykyKsTZiVlrqxPUvaLvXMhv3xW8BbTST0ceb-2uQVqulXX39G3VF_iXmT-MQCcs3wqrf_neVPyo",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -95,50 +95,50 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Dana Darurat",
-      "title": "Tentang Dana Darurat Kredit Tunai",
+      "name_category": "Dana Pinjam",
+      "title": "Tentang Dana Pinjam - Tunai Online",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Tentang Pinjaman Online Dana Darurat Kredit Tunai",
+      "description": "Tentang Pinjaman Online Dana Pinjam - Tunai Online",
       "link": "file:///android_asset/guide/guide_1.html"
     },
       {
       "id": 2,
-      "name_category": "Dana Darurat",
-      "title": "Pencairan Pinjaman Dana Darurat Kredit Tunai",
+      "name_category": "Dana Pinjam",
+      "title": "Pencairan Pinjaman Aman Rupiah - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Lama Proses Pencairan Pinjaman Dana Darurat Kredit Tunai",
+      "description": "Lama Proses Pencairan Pinjaman Dana Pinjam - Tunai Online",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 3,
-      "name_category": "Dana Darurat",
-      "title": "Apakah Pinjaman Di Dana Darurat Kredit Tunai Aman",
+      "name_category": "Dana Pinjam",
+      "title": "Apakah Pinjaman Di Dana Pinjam - Tunai Online Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Apakah Pinjaman Online Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_3.html"
       }, 
     {
       "id":4,
-      "name_category": "Dana Darurat",
-      "title": "Syarat Pinjaman Di Dana Darurat Kredit Tunai",
+      "name_category": "Dana Pinjam",
+      "title": "Syarat Pinjaman Di Dana Pinjam - Tunai Online",
       "image": "file:///android_asset/image/banner.png",
       "description": "Syarat Agar Pinjaman Online Cepat Cair",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
-      "name_category": "Dana Darurat",
-      "title": "Perhitungan Bunga Di Cash Dana Pinjaman Tunai",
+      "name_category": "Dana Pinjam",
+      "title": "Perhitungan Bunga Di Aman Rupiah - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Cara Menghitung Bunga Pinjaman Di Dana Darurat Kredit Tunai",
+      "description": "Cara Menghitung Bunga Pinjaman Di Dana Pinjam - Tunai Online",
       "link": "file:///android_asset/guide/guide_5.html"
     },
      {
       "id":6,
-      "name_category": "Dana Darurat",
-      "title": "Kemudhan Pinjaman Online Dana Darurat Kredit Tunai ",
+      "name_category": "Dana Pinjam",
+      "title": "Kemudhan Pinjaman Online Dana Pinjam - Tunai Online ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Kemudhan Pinjaman Online di Dana Darurat Kredit Tunai",
+      "description": "Kemudhan Pinjaman Online di Dana Pinjam - Tunai Online",
       "link": "file:///android_asset/guide/guide_6.html"
     }
   ]
