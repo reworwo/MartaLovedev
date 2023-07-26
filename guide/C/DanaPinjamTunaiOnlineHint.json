@@ -104,7 +104,7 @@
       {
       "id": 2,
       "name_category": "Dana Pinjam",
-      "title": "Pencairan Pinjaman Aman Rupiah - Pinjaman",
+      "title": "Pencairan Pinjaman Dana Pinjam - Tunai Online",
       "image": "file:///android_asset/image/banner.png",
       "description": "Lama Proses Pencairan Pinjaman Dana Pinjam - Tunai Online",
       "link": "file:///android_asset/guide/guide_2.html"
@@ -128,7 +128,7 @@
     {
       "id": 5,
       "name_category": "Dana Pinjam",
-      "title": "Perhitungan Bunga Di Aman Rupiah - Pinjaman",
+      "title": "Perhitungan Bunga Di Dana Pinjam - Tunai Online",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cara Menghitung Bunga Pinjaman Di Dana Pinjam - Tunai Online",
       "link": "file:///android_asset/guide/guide_5.html"
