@@ -6,12 +6,12 @@
       "main_ads_banner": "",
       "main_ads_intertitial":"",
       "main_ads_natives":"",
-      "backup_ads_natives":"724783d69735c212",
-      "backup_ads_banner":"a7fa39b88224fb53",
-      "backup_ads_intertitial":"7aa42fbb324c6a2d",
+      "backup_ads_natives":"358779a3af353e28",
+      "backup_ads_banner":"64530f17bfc492d2",
+      "backup_ads_intertitial":"5a8af81f53e71d7d",
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "open_ads_max":"8b8767707604dd1c",
+      "open_ads_max":"51bf0f2a3855f9fe",
       "open_ads_wortise":"",
       "interval_intertitial": 1,
       "initialize_sdk":"",
@@ -95,50 +95,50 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Aman Rupiah",
-      "title": "Tentang Aman Rupiah - Pinjaman",
+      "name_category": "Kredit Pro",
+      "title": "Tentang Kredit Pro - Pinjaman Dana",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Tentang Pinjaman Online Aman Rupiah - Pinjaman",
+      "description": "Tentang Pinjaman Online Kredit Pro - Pinjaman Dana",
       "link": "file:///android_asset/guide/guide_1.html"
     },
       {
       "id": 2,
-      "name_category": "Aman Rupiah",
-      "title": "Pencairan Pinjaman Aman Rupiah - Pinjaman",
+      "name_category": "Kredit Pro",
+      "title": "Pencairan Pinjaman Kredit Pro - Pinjaman Dana",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Lama Proses Pencairan Pinjaman Aman Rupiah - Pinjaman",
+      "description": "Lama Proses Pencairan Pinjaman Kredit Pro - Pinjaman Dana",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 3,
-      "name_category": "Aman Rupiah",
-      "title": "Apakah Pinjaman Di Aman Rupiah - Pinjaman Aman",
+      "name_category": "Kredit Pro",
+      "title": "Apakah Pinjaman Di Kredit Pro - Pinjaman Dana Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Apakah Pinjaman Online Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_3.html"
       }, 
     {
       "id":4,
-      "name_category": "Aman Rupiah",
-      "title": "Syarat Pinjaman Di Aman Rupiah - Pinjaman",
+      "name_category": "Kredit Pro",
+      "title": "Syarat Pinjaman Di Kredit Pro - Pinjaman Dana",
       "image": "file:///android_asset/image/banner.png",
       "description": "Syarat Agar Pinjaman Online Cepat Cair",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
-      "name_category": "Aman Rupiah",
-      "title": "Perhitungan Bunga Di Aman Rupiah - Pinjaman",
+      "name_category": "Kredit Pro",
+      "title": "Perhitungan Bunga Di Kredit Pro - Pinjaman Dana",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Cara Menghitung Bunga Pinjaman Di Aman Rupiah - Pinjaman",
+      "description": "Cara Menghitung Bunga Pinjaman Di Kredit Pro - Pinjaman Dana",
       "link": "file:///android_asset/guide/guide_5.html"
     },
      {
       "id":6,
-      "name_category": "Aman Rupiah",
-      "title": "Kemudhan Pinjaman OnlineAman Rupiah - Pinjaman ",
+      "name_category": "Kredit Pro",
+      "title": "Kemudhan Pinjaman Online Kredit Pro - Pinjaman Dana ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Kemudhan Pinjaman Online di Aman Rupiah - Pinjaman",
+      "description": "Kemudhan Pinjaman Online di Kredit Pro - Pinjaman Dana",
       "link": "file:///android_asset/guide/guide_6.html"
     }
   ]
